@@ -189,7 +189,7 @@ class AttributeExtractor:
         return any(key in attr_dict for key in attr_keys)
 
 
-class YelpMultiModalPreprocessor:
+class YelpPreprocessor:
     """
     Data cleaning and EDA pipeline for multi-modal Yelp dataset.
     Designed to support cold-start recommendation systems with LLM-based explanations.
