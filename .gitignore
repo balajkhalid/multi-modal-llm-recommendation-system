@@ -1,6 +1,0 @@
-# Ignore local dataset and large data files. Do NOT commit files in `data/`.
-data/
-
-# If you need to keep an empty `data/` folder in the repo, add a tracked
-# placeholder file (e.g. data/.gitkeep) and commit that. The rest of the
-# contents will remain ignored.
